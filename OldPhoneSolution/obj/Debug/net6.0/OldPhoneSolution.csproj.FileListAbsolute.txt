@@ -1,0 +1,14 @@
+D:\project\solution\OldPhoneSolution\OldPhoneSolution\bin\Debug\net6.0\OldPhoneSolution.exe
+D:\project\solution\OldPhoneSolution\OldPhoneSolution\bin\Debug\net6.0\OldPhoneSolution.deps.json
+D:\project\solution\OldPhoneSolution\OldPhoneSolution\bin\Debug\net6.0\OldPhoneSolution.runtimeconfig.json
+D:\project\solution\OldPhoneSolution\OldPhoneSolution\bin\Debug\net6.0\OldPhoneSolution.dll
+D:\project\solution\OldPhoneSolution\OldPhoneSolution\bin\Debug\net6.0\OldPhoneSolution.pdb
+D:\project\solution\OldPhoneSolution\OldPhoneSolution\obj\Debug\net6.0\OldPhoneSolution.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\solution\OldPhoneSolution\OldPhoneSolution\obj\Debug\net6.0\OldPhoneSolution.AssemblyInfoInputs.cache
+D:\project\solution\OldPhoneSolution\OldPhoneSolution\obj\Debug\net6.0\OldPhoneSolution.AssemblyInfo.cs
+D:\project\solution\OldPhoneSolution\OldPhoneSolution\obj\Debug\net6.0\OldPhoneSolution.csproj.CoreCompileInputs.cache
+D:\project\solution\OldPhoneSolution\OldPhoneSolution\obj\Debug\net6.0\OldPhoneSolution.dll
+D:\project\solution\OldPhoneSolution\OldPhoneSolution\obj\Debug\net6.0\refint\OldPhoneSolution.dll
+D:\project\solution\OldPhoneSolution\OldPhoneSolution\obj\Debug\net6.0\OldPhoneSolution.pdb
+D:\project\solution\OldPhoneSolution\OldPhoneSolution\obj\Debug\net6.0\OldPhoneSolution.genruntimeconfig.cache
+D:\project\solution\OldPhoneSolution\OldPhoneSolution\obj\Debug\net6.0\ref\OldPhoneSolution.dll
